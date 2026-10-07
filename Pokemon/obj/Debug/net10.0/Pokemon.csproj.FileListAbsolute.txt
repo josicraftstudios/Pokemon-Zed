@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive\Dokumenter\OOP\Pokemon\obj\Debug\net10.0\Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive\Dokumenter\OOP\Pokemon\obj\Debug\net10.0\Pokemon.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive\Dokumenter\OOP\Pokemon\obj\Debug\net10.0\Pokemon.AssemblyInfo.cs
+C:\Users\johan\OneDrive\Dokumenter\OOP\Pokemon\obj\Debug\net10.0\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Dokumenter\OOP\Pokemon\obj\Debug\net10.0\Pokemon.sourcelink.json
+C:\Users\johan\OneDrive\Dokumenter\OOP\Pokemon\bin\Debug\net10.0\Pokemon.exe
+C:\Users\johan\OneDrive\Dokumenter\OOP\Pokemon\bin\Debug\net10.0\Pokemon.deps.json
+C:\Users\johan\OneDrive\Dokumenter\OOP\Pokemon\bin\Debug\net10.0\Pokemon.runtimeconfig.json
+C:\Users\johan\OneDrive\Dokumenter\OOP\Pokemon\bin\Debug\net10.0\Pokemon.dll
+C:\Users\johan\OneDrive\Dokumenter\OOP\Pokemon\bin\Debug\net10.0\Pokemon.pdb
+C:\Users\johan\OneDrive\Dokumenter\OOP\Pokemon\obj\Debug\net10.0\Pokemon.dll
+C:\Users\johan\OneDrive\Dokumenter\OOP\Pokemon\obj\Debug\net10.0\refint\Pokemon.dll
+C:\Users\johan\OneDrive\Dokumenter\OOP\Pokemon\obj\Debug\net10.0\Pokemon.pdb
+C:\Users\johan\OneDrive\Dokumenter\OOP\Pokemon\obj\Debug\net10.0\Pokemon.genruntimeconfig.cache
+C:\Users\johan\OneDrive\Dokumenter\OOP\Pokemon\obj\Debug\net10.0\ref\Pokemon.dll
